@@ -1,0 +1,6 @@
+c:\users\ady8\documents\visual studio 2015\Projects\LinkedListLibrary\LinkedListLibrary\bin\Debug\LinkedListLibrary.exe.config
+c:\users\ady8\documents\visual studio 2015\Projects\LinkedListLibrary\LinkedListLibrary\bin\Debug\LinkedListLibrary.exe
+c:\users\ady8\documents\visual studio 2015\Projects\LinkedListLibrary\LinkedListLibrary\bin\Debug\LinkedListLibrary.pdb
+c:\users\ady8\documents\visual studio 2015\Projects\LinkedListLibrary\LinkedListLibrary\obj\Debug\LinkedListLibrary.csprojResolveAssemblyReference.cache
+c:\users\ady8\documents\visual studio 2015\Projects\LinkedListLibrary\LinkedListLibrary\obj\Debug\LinkedListLibrary.exe
+c:\users\ady8\documents\visual studio 2015\Projects\LinkedListLibrary\LinkedListLibrary\obj\Debug\LinkedListLibrary.pdb
